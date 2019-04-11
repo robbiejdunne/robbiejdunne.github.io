@@ -110,8 +110,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A personal sports website."
   location         : "Madrid, Spain"
-  email            :
+  email            : "robbiejdunne@gmail.com"
   github           : "robbiejdunne"
+  twitter          : "robbiejdunne"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
