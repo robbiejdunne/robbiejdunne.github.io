@@ -3,11 +3,10 @@ title: "Lauri Markkanen's Sophomore Exit Interview"
 date: 2019-04-11
 tags: [python, data science, analytics, basketball, nba]
 header: "images/basketball.jpg"
+excerpt: "A look at Lauri Markkanen's second season with the Chicago Bulls"
 ---
 
-# H1 Lauri Markkanen's Sophomore Exit Interview
-
-## H2 The Bulls...
+## H2 The Bulls first round pick in 2017 looked bigger but did the stats back up what looked like progression in his season season in the NBA?
 
 ### H3 Lauri
 
