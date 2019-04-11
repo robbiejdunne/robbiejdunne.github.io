@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Robbie Dunne"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/robbie.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A personal sports website."
   location         : "Madrid, Spain"
   email            : "robbiejdunne@gmail.com"
