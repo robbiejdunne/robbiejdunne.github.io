@@ -16,33 +16,5 @@ Markkanen’s highest scoring game came against the Boston Celtics when he score
 
 "The funny thing is that I feel lighter. Even playing at 15 pounds heavier, it’s mostly on my legs, and I’m still running,” he told GW. "I was at 240 to start the season. I’m at 235 now, which is better than 222, which is how I ended last season.”
 
-
-And here are some *italics*
-
-Here is some **bold** text
-
-What about a [link](https://www.nba.com/bulls/look-back-bulls-2018-19-season)?
-
-Here's a bulleted list:
-* First
-+ Second
-- Third
-
-Here's a numbered list:
-1. One
-2. Two
-3. Three
-
-Python code block:
-```python
-    import numpy as np
-
-    def function (x,y):
-      z = np.sum(x,y)
-      return z
-```
-
-Some inline code `x+y`.
-
-An image:
+Lauri's number of three dropped this season but his percentage remained almost exactly the same:
 <img src="{{ site.url }}{{ site.baseurl }}/images/lauri/lauri.png" alt="Lauri Markkanen">
