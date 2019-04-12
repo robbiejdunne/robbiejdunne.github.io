@@ -19,7 +19,6 @@ Markkanen missed 30 games this past season having missed 14 in his rookie campai
 His minutes have increased from 32.3 per game up from 28.7 in his rookie year and he played the third most minute on the team behind Zach LaVine and Ryan Arcidiacono with 1680 and 22.9% usage rate.
 
 Markkanen’s highest scoring game came against the Boston Celtics when he scored 35 at the United Centre at the end of February under Boylen.
-
 ### The problem with Boylen
 
 Under Boylen, the Bulls have slowed down, forcing Markkanen to create more of his own shots against packed defenses in the half-court. They are also taking less 3 points attempts and scoring less so it's obvious that a player will struggle in a struggling team.
