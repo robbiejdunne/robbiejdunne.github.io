@@ -8,7 +8,7 @@ excerpt: "A look at Lauri Markkanen's second season with the Chicago Bulls"
 
 ### The Bulls first round pick in 2017 looked bigger but did the stats back up what looked like progression in his season season in the NBA?
 
-*Note: This aerticle was inspired mostly by Stephen Noh's article [link](https://theathletic.com/766748/2019/01/15/why-lauri-markkanen-has-stagnated-in-his-sophomore-season/) on the Athletic.*
+*Note: This article was inspired mostly by [Stephen Noh's article](https://theathletic.com/766748/2019/01/15/why-lauri-markkanen-has-stagnated-in-his-sophomore-season/) on the Athletic.*
 
 Lauri Markkanen’s main task in the offseason after his sophomore year in the NBA is to improve his strength with the ultimate goal being to play 82 games next season. His second year in the league was disappointing given the amount of injuries he had but also because the Bulls in general were disappointing.
 
@@ -22,7 +22,7 @@ Markkanen’s highest scoring game came against the Boston Celtics when he score
 
 ### The problem with Boylen
 
-Under Boylen, the Bulls have slowed down, forcing Markkanen to create more of his own shots against packed defenses in the half-court. They are also taking less 3 points attempts.
+Under Boylen, the Bulls have slowed down, forcing Markkanen to create more of his own shots against packed defenses in the half-court. They are also taking less 3 points attempts and scoring less so it's obvious that a player will struggle in a struggling team.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/lauri/points.png" alt="Lauri Markkanen">
 
