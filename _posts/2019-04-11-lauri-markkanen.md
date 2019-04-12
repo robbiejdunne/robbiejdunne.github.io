@@ -30,3 +30,13 @@ Under Boylen, the Bulls have slowed down, forcing Markkanen to create more of hi
 
 Lauri's number of three dropped this season but his percentage remained almost exactly the same:
 <img src="{{ site.url }}{{ site.baseurl }}/images/lauri/lauri.png" alt="Lauri Markkanen">
+
+### All Sophomores
+
+The problem is, sometimes, that we tend to compare players we like and think are going to be great with the players we want them to become rather than their current peers. And as far as that goes, Lauri Markkanen is doing really well.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/lauri/sophomore.png" alt="Lauri Markkanen">
+
+He is averaging 18.7 points per game with just Donovan Mithcell and John Collins ahead of him as far as sophomores go. He is also second behind just Mitchell, who is heading into the playoffs with a really good coach in Quin Snyder on the bench, in three points made too.
+
+In summary, the Bulls need to both give their heads a shake and figure out a way to get Markkanen the ball in more favourable spots next season and he needs to both beef up and make sure he is there when his team needs him heading into the new season.
