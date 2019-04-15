@@ -6,7 +6,7 @@ header: "images/soccer.jpg"
 excerpt: "Taking a look at what Getafe will lose if Vitorino Antunes is lost for the season"
 ---
 
-### Victor Antunes’ leg buckled underneath him on Sunday afternoon during the game against Real Valladolid and the reports that followed are not good. He could be out for the season as Getafe chase the LaLiga's fourth and final spot in the Champions League.
+## Victor Antunes’ leg buckled underneath him on Sunday afternoon during the game against Real Valladolid and the reports that followed were not good. He could be out for the season as Getafe chase the LaLiga's fourth and final spot in the Champions League.
 
 He arrived from Dynamo Kiev last summer after a successful loan spell the year before which saw Getafe finish 7th with the very best LaLiga has to offer ahead of them. Antunes himself is having an excellent season and Getafe as a club are exceeding all expectations too. They are behind Sevilla, for now, in fifth place but they have a chance to make it into that final Champions League spot even if Antunes injury comes at a terrible times for them.
 
