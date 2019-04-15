@@ -6,7 +6,9 @@ header: "images/soccer.jpg"
 excerpt: "Taking a look at what Getafe will lose if Vitorino Antunes is lost for the season"
 ---
 
-## Victor Antunes’ leg buckled underneath him on Sunday afternoon during the game against Real Valladolid and the reports that followed were not good. He could be out for the season as Getafe chase LaLiga's fourth and final spot in the Champions League.
+## The Portuguese left-back's injury comes at a bad time for Getafe.
+
+Victor Antunes’ leg buckled underneath him on Sunday afternoon during the game against Real Valladolid and the reports that followed were not good. He could be out for the season as Getafe chase LaLiga's fourth and final spot in the Champions League.
 
 He arrived from Dynamo Kiev last summer after a successful loan spell the year before which saw Getafe finish 7th with the very best LaLiga has to offer ahead of them. Antunes himself is having an excellent season and Getafe as a club are exceeding all expectations too. They are behind Sevilla, for now, in fifth place but they have a chance to make it into that final Champions League spot even if Antunes injury comes at a terrible time for them.
 
@@ -27,4 +29,4 @@ It is telling that on Getafe's list of Expected Assists, both full-backs, Damian
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/antunes/expectedassists.png" alt="Antunes' minutes and key passes">
 
-Getafe have dropped a level or possibly even two since they played Leganés in the South Madrid Derby a couple of weeks ago and their manager was particularly critical of his side that day suggesting they might have been listening to too much of the praise being directed their way in recent weeks as a Champions League place became a more distinct possibility. They have drawn with struggling Espanyol and Real Valladolid since then with a 1-0 win over Athletic Bilbao sandwiched between those results. They need to find the hunger they played with to start the season to ensure this year doesn't become one of 'what ifs'. Losing Antunes, however, is a crucial blow at a critical time of the year for them. 
+Getafe have dropped a level or possibly even two since they played Leganés in the South Madrid Derby a couple of weeks ago and their manager was particularly critical of his side that day suggesting they might have been listening to too much of the praise being directed their way in recent weeks as a Champions League place became a more distinct possibility. They have drawn with struggling Espanyol and Real Valladolid since then with a 1-0 win over Athletic Bilbao sandwiched between those results. They need to find the hunger they played with to start the season to ensure this year doesn't become one of 'what ifs'. Losing Antunes, however, is a crucial blow at a critical time of the year for them.
