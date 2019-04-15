@@ -15,17 +15,16 @@ Antunes, despite being 32, is not only one of the most consistent performers for
 He is a bonafide starter under Bordalas and is a key to his strategy with his pin-point delivery from the left:
 <img src="{{ site.url }}{{ site.baseurl }}/images/antunes/antunes2.png" alt="Antunes' minutes and key passes">
 
-I present to you exhibit A:
-<img src="{{ site.url }}{{ site.baseurl }}/images/antunes/cross.mov" alt="Antunes puts it on a plate for Molina">
-
-Amongst the top 20 left-backs in the league, according to WhoScored, he is right up there with the best of them and his 1.2 key passes per game and 25 total key passes places him among the top seven in the league.
+Amongst the top 20 left-backs in the league, according to WhoScored, he is right up there with the best of them and his 1.2 key passes per game and 26 total key passes places him among the top seven in the league.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/antunes/consistent.png" alt="Antunes' minutes and key passes">
 
-On top of that, he makes up one of the most formidable defences in the league. They rank third in Expected Goals Against and Antunes is a large part of that.
+On top of that, he makes up one of the most formidable defences in the league. They rank third in Expected Goals Against and Antunes is a large part of that. Only three players have made more interceptions than him at the position with Dídac Vilá, Jordi Alb and Rubén Duarte ahead of him (and Nacho from Real Valladolid level with him). His clearances per game also put him into the top 5 too with 2.5 per game.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/antunes/xgtable.png" alt="Antunes' minutes and key passes">
 
 It is telling that on Getafe's list of Expected Assists, both full-backs, Damian Suarez on the right, who comes in second, and Antunes on the left, are in the top four.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/antunes/expectedassists.png" alt="Antunes' minutes and key passes">
+
+Getafe have dropped a level or possibly even two since they played Leganés in the South Madrid Derby a couple of weeks ago and their manager was particularly critical of his side that day suggesting they might have been listening to too much of the praise being directed their way in recent weeks as a Champions League place became a more distinct possibility. They have drawn with struggling Espanyol and Real Valladolid since then with a 1-0 win over Athletic Bilbao sandwiched between those results. They need to find the hunger they played with to start the season to ensure this year doesn't become one of 'what ifs'. Losing Antunes, however, is a crucial blow at a critical time of the year for them. 
