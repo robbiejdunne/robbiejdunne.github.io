@@ -7,4 +7,4 @@ author_profile: true
 header:
   image: "/images/landscape6.jpg"
 ---
-Some of the projects I am currently working on.
+Some of the books I have read and enjoyed.
