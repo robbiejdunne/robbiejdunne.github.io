@@ -6,3 +6,7 @@ header:
 ---
 
 ![Just in case](/images/barca.gif)
+
+Some example text....
+
+![Just in case](/images/example.gif)
