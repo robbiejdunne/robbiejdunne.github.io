@@ -1,6 +1,7 @@
 ---
 title: "About"
 permalink: /about/
+avatar: "/images/robbiejdunne.jpg"
 header:
   image: "/images/landscape2.jpg"
 ---
