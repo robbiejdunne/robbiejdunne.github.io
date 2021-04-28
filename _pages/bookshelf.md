@@ -7,4 +7,4 @@ author_profile: true
 header:
   image: "/images/landscape6.jpg"
 ---
-Some of the books I have read and enjoyed.
+My thoughts on some of the books I have read or am currently reading. 
