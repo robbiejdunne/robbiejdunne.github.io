@@ -6,7 +6,7 @@ header:
   image: "/images/landscape2.jpg"
 ---
 
-I am a journalist and Data Science student with a love for anything involving sports, strategy, technology or Machine Learning - the more of these I can fit into a project, the better.
+I am a journalist and Data Science student. I am in
 
 I didn't have a place where I could publish a lot of the writing and tinkering I do so I created a website to host it.
 
