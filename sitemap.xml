@@ -2,74 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/posts/projects/indie-song-generator/</loc>
+    <loc>https://robbiejdunne.github.io/posts/projects/indie-song-generator/</loc>
     <lastmod>2022-06-13T14:26:16+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://robbiejdunne.github.io/posts/</loc>
     <lastmod>2022-06-13T14:26:16+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://robbiejdunne.github.io/</loc>
     <lastmod>2022-06-13T14:26:16+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/projects/expected-passing/</loc>
+    <loc>https://robbiejdunne.github.io/posts/projects/expected-passing/</loc>
     <lastmod>2021-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/projects/predicting-nfl-draft/</loc>
+    <loc>https://robbiejdunne.github.io/posts/projects/predicting-nfl-draft/</loc>
     <lastmod>2021-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/projects/expected-rushing-yards/</loc>
+    <loc>https://robbiejdunne.github.io/posts/projects/expected-rushing-yards/</loc>
     <lastmod>2021-06-13T14:26:16+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/demo/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <loc>https://robbiejdunne.github.io/about/</loc>
   </url><url>
-    <loc>https://example.com/tags/image/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <loc>https://robbiejdunne.github.io/tags/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/posts/projects/the-figure-shortcode/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/posts/projects/post-with-featured-image/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/typography/</loc>
-    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/posts/projects/typography/</loc>
-    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/posts/projects/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/posts/projects/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/posts/projects/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/about/</loc>
-  </url><url>
-    <loc>https://example.com/writing/</loc>
+    <loc>https://robbiejdunne.github.io/writing/</loc>
   </url>
 </urlset>
