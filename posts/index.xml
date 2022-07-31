@@ -6,38 +6,34 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Mon, 13 Jun 2022 14:26:16 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://robbiejdunne.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>Indie Song Generator</title>
-			<link>https://robbiejdunne.github.io/posts/projects/indie-song-generator/</link>
-			<pubDate>Mon, 13 Jun 2022 14:26:16 +0200</pubDate>
-			
-			<guid>https://robbiejdunne.github.io/posts/projects/indie-song-generator/</guid>
-			<description>I decided to pick my ten favourite musicians using Spotify&amp;rsquo;s developer tools, scrape the lyrics using Genius&amp;rsquo; API and then create a song using Markovify.
-According to Spotify, my top ten bands of all time are.
-So I used Python to scrape Genius and came back with a file.
-Markovify is a library that. You can read more about it here&amp;hellip;</description>
-			<content type="html"><![CDATA[<p>I decided to pick my ten favourite musicians using Spotify&rsquo;s developer tools, scrape the lyrics using Genius&rsquo; API and then create a song using Markovify.</p>
-<p>According to Spotify, my top ten bands of all time are.</p>
-<p>So I used Python to scrape Genius and came back with a file.</p>
-<p>Markovify is a library that. You can read more about it here&hellip;</p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>Expected Passing</title>
+			<title>Expected Passing at Euro 2020</title>
 			<link>https://robbiejdunne.github.io/posts/projects/expected-passing/</link>
 			<pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
 			
 			<guid>https://robbiejdunne.github.io/posts/projects/expected-passing/</guid>
-			<description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+			<description>Introduction There is a dearth of public work on passing probabilities in football. Several companies and teams have carried out analysis of passing probability in football, but they are not publicly available. For example, Opta have their own expected passing model which they call xP (‘Introducing Expected Pass Completion (xP)’, 2021). The variables they use include:
+x-coordinate of pass start location mirrored y-coordinate of pass start location (e.g. so a pass played from the left edge of the penalty area and a pass played from the right edge of the penalty area would both take the value 20.</description>
 			<content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
-<p>This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&rsquo;t cover using CSS to style your theme.</p>
-<p>We&rsquo;ll start with creating a new site with a very basic template. Then we&rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.</p>
-<p>In this tutorial, commands that you enter will start with the &ldquo;$&rdquo; prompt. The output will follow. Lines that start with &ldquo;#&rdquo; are comments that I&rsquo;ve added to explain a point. When I show updates to a file, the &ldquo;:wq&rdquo; on the last line means to save the file.</p>
+<p>There is a dearth of public work on passing probabilities in football. Several companies and teams have carried out analysis of passing probability in football, but they are not publicly available. For example, Opta have their own expected passing model which they call xP (‘Introducing Expected Pass Completion (xP)’, 2021). The variables they use include:</p>
+<ul>
+<li>x-coordinate of pass start location</li>
+<li>mirrored y-coordinate of pass start location (e.g. so a pass played from the left edge of the penalty area and a pass played from the right edge of the penalty area would both take the value 20.1)</li>
+<li>angle of pass based on end location</li>
+<li>approximate distance of pass based on end location</li>
+</ul>
+<p>American Soccer Analysis have their own Expected Passing Model (Kullowatz, 2018) with similar features. There has also been a lot of work done with regards to how pressure from opposing players affects shots at goal. However, there are no existing passing models in the public domain that consider pressure from opposing players mixed with a traditional passing model.</p>
+<p>The main aim of this project was to create an expected passing model that takes pressure from opponents into account and to see if it was possible to model such an outcome. And from there a couple of research questions were defined: ‘what are the important features of a pass’s outcome?’ and ‘is it possible to model the probability of a pass outcome?’ For modelling, an inferential model was created and then a selection of models had to be chosen to apply to the data before being compared against each other. The variable to be predicted was ‘Complete’ or ‘Incomplete’ and therefore, a classification model was the obvious choice. The four models chosen were mentioned previously as they offered a range of benefits, but some had disadvantages.</p>
+<h2 id="my-model">My model</h2>
+<p>I tried various models but the best results came from the Random Forest model. So, let&rsquo;s focus on that.</p>
+<h2 id="results">Results</h2>
+<p>You can see the code for this project on my GitHub <a href="https://github.com/robbiejdunne/ExpectedPassing">here</a>.</p>
+<h2 id="further-work">Further work</h2>
+<p>The implications of a real-time passing probability model are many. Anyone can play a pass sideways to a teammate and in recent years, we have seen a focus being put on players capable of breaking lines and receiving between the lines. Progressive passes are how you hurt teams. If we can quantify how difficult a pass is, we can determine how brave they are, how good they are at deciding what risks to take and how often those risks pay off.</p>
+<p>We can also add up the cumulative risk taken during a specific sequence of play that led to a shot or goal.</p>
 ]]></content>
 		</item>
 		
@@ -47,8 +43,10 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
 			<pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
 			
 			<guid>https://robbiejdunne.github.io/posts/projects/predicting-nfl-draft/</guid>
-			<description>Another project for college. I wanted to</description>
-			<content type="html"><![CDATA[<p>Another project for college. I wanted to</p>
+			<description>Another project for college. I wanted to predict the NFL Draft using historical data. This was a large project that involved a lot of scraping and cleaning data and a lot of modelling.
+You see all the code here.</description>
+			<content type="html"><![CDATA[<p>Another project for college. I wanted to predict the NFL Draft using historical data. This was a large project that involved a lot of scraping and cleaning data and a lot of modelling.</p>
+<p>You see all the code <a href="https://github.com/robbiejdunne/predictthedraft">here</a>.</p>
 ]]></content>
 		</item>
 		

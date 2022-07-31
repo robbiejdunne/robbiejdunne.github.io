@@ -7,27 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 13 Jun 2022 14:26:16 +0200</lastBuildDate><atom:link href="https://robbiejdunne.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://robbiejdunne.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Indie Song Generator</title>
-      <link>https://robbiejdunne.github.io/posts/projects/indie-song-generator/</link>
-      <pubDate>Mon, 13 Jun 2022 14:26:16 +0200</pubDate>
-      
-      <guid>https://robbiejdunne.github.io/posts/projects/indie-song-generator/</guid>
-      <description>I decided to pick my ten favourite musicians using Spotify&amp;rsquo;s developer tools, scrape the lyrics using Genius&amp;rsquo; API and then create a song using Markovify.
-According to Spotify, my top ten bands of all time are.
-So I used Python to scrape Genius and came back with a file.
-Markovify is a library that. You can read more about it here&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Expected Passing</title>
+      <title>Expected Passing at Euro 2020</title>
       <link>https://robbiejdunne.github.io/posts/projects/expected-passing/</link>
       <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://robbiejdunne.github.io/posts/projects/expected-passing/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <description>Introduction There is a dearth of public work on passing probabilities in football. Several companies and teams have carried out analysis of passing probability in football, but they are not publicly available. For example, Opta have their own expected passing model which they call xP (‘Introducing Expected Pass Completion (xP)’, 2021). The variables they use include:
+x-coordinate of pass start location mirrored y-coordinate of pass start location (e.g. so a pass played from the left edge of the penalty area and a pass played from the right edge of the penalty area would both take the value 20.</description>
     </item>
     
     <item>
@@ -36,7 +24,8 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://robbiejdunne.github.io/posts/projects/predicting-nfl-draft/</guid>
-      <description>Another project for college. I wanted to</description>
+      <description>Another project for college. I wanted to predict the NFL Draft using historical data. This was a large project that involved a lot of scraping and cleaning data and a lot of modelling.
+You see all the code here.</description>
     </item>
     
     <item>
@@ -55,9 +44,8 @@ The main goal of this project was to create a Shiny app with multiple pages and 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://robbiejdunne.github.io/about/</guid>
-      <description>I like data - especially as it relates to my other hobbies {sport, books, music, movies}. I mostly code in R, Python and Javascript. I also develop apps using Shiny, React, Node, Gatsby and others.
-I write too. You can have a look at some of the things I have written here.
-Please feel free to get in touch.</description>
+      <description>I am a data enthusiast - especially as it relates to my other hobbies {sport, books, music, movies}. I mostly code in R, Python and Javascript. I also develop apps using Shiny, React, Node, Gatsby and others.
+How do I know what I think until I see what I say. This is somewhere I can write about different aspects of the technology that I use and my other interests. You can have a look at some of the things I have written here.</description>
     </item>
     
     <item>
